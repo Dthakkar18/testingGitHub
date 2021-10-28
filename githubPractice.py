@@ -1,3 +1,3 @@
 
-name = input("What is your name: ")
-print("hello " + name)
+for i in range(10):
+    print(i)
